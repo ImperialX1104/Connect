@@ -1,6 +1,6 @@
 # Dating Website - README
 
-![Dating Website](/path/to/your/dating_website_screenshot.png)
+![Dating Website](https://connect-app.in/)
 
 ## Table of Contents
 
