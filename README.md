@@ -1,6 +1,6 @@
 # Dating Website - README
 
-![Dating Website]("C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2023-07-29 195655.png")
+![Dating Website](https://connect-app.in/assets/img/logo.png)
 
 ## Table of Contents
 
